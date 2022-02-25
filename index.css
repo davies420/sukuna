@@ -1,0 +1,25 @@
+
+body{
+  background-color: rgb(246, 247, 248);
+}
+table {
+  border-collapse: collapse;
+  width: 70%;
+  text-align: center;
+  margin: 0px 5% 0px 15%;
+  height: 204px;
+}
+tr {
+  border-bottom: 1px solid #ddd;
+}
+th { text-align: center;
+ background-color:#01987a;
+}
+.ray{
+  color: #01987a;
+  background-color: rgb(241, 237, 237);
+}
+.dot{
+  border-bottom: 5px solid #01987a;
+  margin: 1vh 14.5vw;
+}
